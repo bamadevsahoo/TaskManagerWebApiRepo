@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
