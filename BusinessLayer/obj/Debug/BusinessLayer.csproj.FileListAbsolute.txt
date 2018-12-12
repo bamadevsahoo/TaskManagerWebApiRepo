@@ -5,8 +5,8 @@ C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\bin\D
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\bin\Debug\EntityFramework.xml
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache

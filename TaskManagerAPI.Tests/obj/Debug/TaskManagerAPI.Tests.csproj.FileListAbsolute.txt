@@ -7,7 +7,6 @@ C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Test
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\TaskManagerAPI.dll
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\System.Web.Http.dll
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\System.Web.Http.Cors.dll
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\BusinessLayer.dll
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\EntityFramework.dll
@@ -19,7 +18,6 @@ C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Test
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\TaskManagerAPI.dll.config
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\System.Web.Http.xml
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\System.Web.Http.Cors.xml
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\BusinessLayer.pdb
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\BusinessLayer.dll.config
@@ -31,3 +29,5 @@ C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Test
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\obj\Debug\TaskManagerAPI.Tests.csproj.CopyComplete
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\obj\Debug\TaskManagerAPI.Tests.dll
 C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\obj\Debug\TaskManagerAPI.Tests.pdb
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\TaskManagerAPI.Tests\bin\Debug\EntityFramework.SqlServer.xml

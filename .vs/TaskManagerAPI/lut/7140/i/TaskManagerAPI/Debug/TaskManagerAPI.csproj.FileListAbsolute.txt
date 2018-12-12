@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\TaskManagerAPI\bin\TaskManagerAPI.dll.config
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\TaskManagerAPI\bin\TaskManagerAPI.dll
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\TaskManagerAPI\Debug\TaskManagerAPI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\TaskManagerAPI\Debug\TaskManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\TaskManagerAPI\Debug\TaskManagerAPI.csproj.CopyComplete
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\TaskManagerAPI\Debug\TaskManagerAPI.dll

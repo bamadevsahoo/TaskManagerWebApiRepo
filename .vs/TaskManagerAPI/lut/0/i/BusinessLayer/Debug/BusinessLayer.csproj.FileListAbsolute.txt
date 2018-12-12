@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\BusinessLayer\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\BusinessLayer\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\BusinessLayer\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\BusinessLayer\Debug\BusinessLayer.dll
