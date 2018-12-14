@@ -1,8 +1,0 @@
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\TaskManagerAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\TaskManagerAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\TaskManagerAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\TaskManagerAPI.Tests\bin\Debug\TaskManagerAPI.Tests.dll.config
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\b\TaskManagerAPI.Tests\bin\Debug\TaskManagerAPI.Tests.dll
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\TaskManagerAPI.Tests\Debug\TaskManagerAPI.Tests.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\TaskManagerAPI.Tests\Debug\TaskManagerAPI.Tests.csproj.CopyComplete
-C:\Users\Admin\Desktop\FSE_Assesments_Capsule\TaskManagerAPI\.vs\TaskManagerAPI\lut\0\i\TaskManagerAPI.Tests\Debug\TaskManagerAPI.Tests.dll
